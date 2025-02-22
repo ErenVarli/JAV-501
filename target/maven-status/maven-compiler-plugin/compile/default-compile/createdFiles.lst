@@ -1,0 +1,4 @@
+game/garfield/object/End.class
+game/garfield/menu/WinMenu.class
+game/garfield/power/powerGarfield/RockPowerGarfield.class
+module-info.class

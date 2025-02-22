@@ -1,0 +1,203 @@
+{
+    "listData": [
+        {
+            "id": 21,
+            "x": 50,
+            "y": 650,
+            "vecX": null,
+            "vecY": null,
+            "sizeX": 2000,
+            "sizeY": 200,
+            "heal": null,
+            "apparance": "test",
+            "hp": null
+        },{
+            "id": 1,
+            "x": 75,
+            "y": 630,
+            "vecX": null,
+            "vecY": null,
+            "sizeX": null,
+            "sizeY": null,
+            "heal": null,
+            "apparance": null,
+            "hp": 10
+        },{
+            "id": 21,
+            "x": 750,
+            "y": 580,
+            "vecX": null,
+            "vecY": null,
+            "sizeX": 50,
+            "sizeY": 70,
+            "heal": null,
+            "apparance": "test",
+            "hp": null
+        },{
+            "id": 21,
+            "x": 1200,
+            "y": 0,
+            "vecX": null,
+            "vecY": null,
+            "sizeX": 100,
+            "sizeY": 10000,
+            "heal": null,
+            "apparance": "test",
+            "hp": null
+        },{
+            "id": 21,
+            "x": 0,
+            "y": 0,
+            "vecX": null,
+            "vecY": null,
+            "sizeX": 50,
+            "sizeY": 10000,
+            "heal": null,
+            "apparance": "test",
+            "hp": null
+        },{
+            "id": 26,
+            "x": 1190,
+            "y": 600,
+            "vecX": null,
+            "vecY": null,
+            "sizeX": 10,
+            "sizeY": 50,
+            "heal": null,
+            "apparance": "test",
+            "hp": null
+        },{
+            "id": 11,
+            "x": 1050,
+            "y": 620,
+            "vecX": 0,
+            "vecY": 0,
+            "sizeX": null,
+            "sizeY": null,
+            "heal": null,
+            "apparance": null,
+            "hp": null
+        },{
+            "id": 13,
+            "x": 1150,
+            "y": 620,
+            "vecX": 0,
+            "vecY": 0,
+            "sizeX": null,
+            "sizeY": null,
+            "heal": null,
+            "apparance": null,
+            "hp": null
+        },{
+            "id": 21,
+            "x": 850,
+            "y": 500,
+            "vecX": null,
+            "vecY": null,
+            "sizeX": 2000,
+            "sizeY": 20,
+            "heal": null,
+            "apparance": "test",
+            "hp": null
+        },{
+            "id": 12,
+            "x": 1150,
+            "y": 470,
+            "vecX": 0,
+            "vecY": 0,
+            "sizeX": null,
+            "sizeY": null,
+            "heal": null,
+            "apparance": null,
+            "hp": null
+        },{
+            "id": 21,
+            "x": 630,
+            "y": 0,
+            "vecX": null,
+            "vecY": null,
+            "sizeX": 20,
+            "sizeY": 600,
+            "heal": null,
+            "apparance": "test",
+            "hp": null
+        },{
+            "id": 11,
+            "x": 875,
+            "y": 470,
+            "vecX": 0,
+            "vecY": 0,
+            "sizeX": null,
+            "sizeY": null,
+            "heal": null,
+            "apparance": null,
+            "hp": null
+        },{
+            "id": 21,
+            "x": 150,
+            "y": 560,
+            "vecX": null,
+            "vecY": null,
+            "sizeX": 50,
+            "sizeY": 90,
+            "heal": null,
+            "apparance": "test",
+            "hp": null
+        },{
+            "id": 21,
+            "x": 515,
+            "y": 500,
+            "vecX": null,
+            "vecY": null,
+            "sizeX": 50,
+            "sizeY": 150,
+            "heal": null,
+            "apparance": "test",
+            "hp": null
+        },{
+            "id": 21,
+            "x": 265,
+            "y": 500,
+            "vecX": null,
+            "vecY": null,
+            "sizeX": 300,
+            "sizeY": 20,
+            "heal": null,
+            "apparance": "test",
+            "hp": null
+        },{
+            "id": 11,
+            "x": 595,
+            "y": 620,
+            "vecX": 0,
+            "vecY": 0,
+            "sizeX": null,
+            "sizeY": null,
+            "heal": null,
+            "apparance": null,
+            "hp": null
+        },{
+            "id": 12,
+            "x": 470,
+            "y": 620,
+            "vecX": 0,
+            "vecY": 0,
+            "sizeX": null,
+            "sizeY": null,
+            "heal": null,
+            "apparance": null,
+            "hp": null
+        },{
+            "id": 13,
+            "x": 500,
+            "y": 470,
+            "vecX": 0,
+            "vecY": 0,
+            "sizeX": null,
+            "sizeY": null,
+            "heal": null,
+            "apparance": null,
+            "hp": null
+        }
+    ]
+}
